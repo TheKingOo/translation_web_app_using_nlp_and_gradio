@@ -10,7 +10,7 @@ This project is a simple web app for translating English text to French using Na
 
     ```bash
     git clone https://github.com/your-username/translation-web-app.git
-    cd translation-web-app
+    cd translation_web_app_using_nlp_and_gradio-main
     ```
 2. Run the Jupyter Notebook:
 
