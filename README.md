@@ -19,8 +19,8 @@ This project is a simple web app for translating English text to French using Na
     ```
 
 3. Open the notebook and run the cells to load the pretrained model and set up the translation functions.
-
-4. Visit the provided local URL in your web browser to access the translation web app.
+4. Execute the cell with Gradio to launch the local web interface.
+5. Visit the provided local URL in your web browser to access the translation web app.
 ![gradio](https://github.com/TheKingOo/translation_web_app_using_nlp_and_gradio/assets/95720632/97de6d7d-d9eb-4afd-9f95-a04488d44d03)
 
 
